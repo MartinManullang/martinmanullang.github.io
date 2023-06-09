@@ -1,0 +1,34 @@
+#home{
+    padding: 5rem;
+    padding-bottom: 8rem;
+}
+.jumbotron{
+    padding: 2rem;
+}
+#about{
+    padding: 5rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(150deg, #F5BA48, #FFFFFF);
+}
+#skills{
+    padding: 5rem;
+    padding-bottom: 15rem;
+    background-color: #FFE3AC;
+}
+#project{
+    margin-top: -1rem;
+    padding: 5rem;
+    background-color: #FFFCDF;
+}
+#certification{
+    padding: 5rem;
+    background-color: #FFE3AC;
+}
+#foot{
+    padding: 1rem;
+    background-color: #FFCA64;
+}
+.textfoot{
+    margin-top: 1rem;
+}
+
