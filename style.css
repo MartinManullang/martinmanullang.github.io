@@ -7,13 +7,8 @@
 }
 #about{
     padding: 5rem;
-    padding-bottom: 8rem;
+    padding-bottom: 9rem;
     background: linear-gradient(150deg, #F5BA48, #FFFFFF);
-}
-#skills{
-    padding: 5rem;
-    padding-bottom: 15rem;
-    background-color: #FFE3AC;
 }
 #project{
     margin-top: -1rem;
