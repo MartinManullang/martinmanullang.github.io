@@ -1,29 +1,113 @@
-#home{
+#home {
     padding: 5rem;
     padding-bottom: 8rem;
-}
-.jumbotron{
+  }
+  .jumbotron {
     padding: 2rem;
-}
-#about{
+  }
+  #about {
     padding: 5rem;
     padding-bottom: 9rem;
-    background: linear-gradient(150deg, #F5BA48, #FFFFFF);
-}
-#project{
+    background-color: #f6e7d2;
+  }
+  #project {
     margin-top: -1rem;
     padding: 5rem;
-    background-color: #FFFCDF;
-}
-#certification{
+    padding-bottom: 9rem;
+    background-color: #cb8627;
+  }
+  #project1 {
+    margin-top: -1rem;
     padding: 5rem;
-    background-color: #FFE3AC;
-}
-#foot{
+    padding-bottom: 12rem;
+    background-color: #f6e7d2;
+  }
+  #project2 {
+    margin-top: -1rem;
+    padding: 5rem;
+    padding-bottom: 12rem;
+    background-color: #cb8627;
+  }
+  #project3 {
+    margin-top: -1rem;
+    padding: 5rem;
+    padding-bottom: 12rem;
+    background-color: #f6e7d2;
+  }
+  #project4 {
+    margin-top: -1rem;
+    padding: 5rem;
+    padding-bottom: 12rem;
+    background-color: #cb8627;
+  }
+  #certification {
+    padding: 5rem;
+    padding-bottom: 7rem;
+    background-color: #f6e7d2;
+  }
+  #foot {
     padding: 1rem;
-    background-color: #FFCA64;
-}
-.textfoot{
+    background-color: #cb8627;
+  }
+  .textfoot {
     margin-top: 1rem;
-}
-
+  }
+  .gskills img {
+    width: 50px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .gskills img:hover {
+    transform: scale(1.2);
+  }
+  .image-container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .image-container1 img {
+    width: 100%;
+    height: auto;
+  }
+  .text-container1 {
+    padding: 20px;
+  }
+  .text-container1 h2 {
+    font-size: 24px;
+  }
+  .text-container1 p {
+    font-size: 16px;
+  }
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+  .image-item {
+    text-align: center;
+  }
+  .image-item img {
+    width: 100%;
+    height: 200px; /* Tinggi gambar yang diinginkan */
+    object-fit: cover;
+  }
+  .image-item h3 {
+    margin-top: 10px;
+  }
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .card-link:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+  .card-link:active {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+  
+  
